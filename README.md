@@ -3,7 +3,7 @@
 **English** | [Español](README.es.md)
 
 ## About me
-I'm an industrial electrical technician transitioning into cybersecurity, currently pursuing cybersecurity engineering studies and developing practical skills through the Google Cybersecurity Professional Certificate, guided labs, and independent learning.
+I'm an industrial electrical and electronics technician transitioning into cybersecurity, currently pursuing cybersecurity engineering studies and developing practical skills through the Google Cybersecurity Professional Certificate, guided labs, and independent learning.
 
 My focus is on building a solid foundation in security analysis, vulnerability assessment, Linux, SQL, threat analysis, and responsible security testing.
 
