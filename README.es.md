@@ -3,7 +3,7 @@
 [English](README.md) | **Español**
 
 ## Sobre mí
-Soy técnico en electricidad industrial y estoy orientando mi carrera hacia la ciberseguridad. Actualmente estudio Ingeniería en Ciberseguridad y desarrollo habilidades prácticas mediante el Certificado Profesional de Ciberseguridad de Google, laboratorios guiados y aprendizaje independiente.
+Soy técnico en electricidad y electrónica industrial y estoy orientando mi carrera hacia la ciberseguridad. Actualmente estudio Ingeniería en Ciberseguridad y desarrollo habilidades prácticas mediante el Certificado Profesional de Ciberseguridad de Google, laboratorios guiados y aprendizaje independiente.
 
 Mi objetivo es construir una base sólida en análisis de seguridad, evaluación de vulnerabilidades, Linux, SQL, análisis de amenazas y pruebas de seguridad responsables.
 
